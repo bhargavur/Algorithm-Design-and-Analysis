@@ -1,7 +1,4 @@
 # Design-and-Analysis-of-Algorithms
-COMP 6651 Project
-
-
 Q1 - Dijkstra's Shortest Path using a Priority Queue - nlogn
 
 Q2 - Brute Force - 2^n x n^2
